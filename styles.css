@@ -197,6 +197,14 @@ button {
     width: 65%;
   }
   .card {
-    flex-direction: row;
+    width: 31%;
+    flex-direction: column;
+  }
+  .card h3{
+    text-align: center;
+  }
+  .card p{
+    margin-top: 8px;
+    margin-bottom:;
   }
 }
